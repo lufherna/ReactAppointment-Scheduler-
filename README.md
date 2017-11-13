@@ -1,0 +1,2 @@
+# ReactAppointment-Scheduler-
+Using React.js, Cosmic.js and Twilio to create a valuable tool to organize your time. Our Appointment Scheduler will let users select a day and a one-hour time slot between 9AM and 5PM to meet with us. We’ll then integrate our app with Twilio to send them a confirmation text that their appointment has been scheduled. Finally, we’ll build a Cosmic JS Extension so we can manage the appointments right from within the Cosmic JS dashboard.
